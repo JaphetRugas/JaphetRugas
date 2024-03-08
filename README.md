@@ -17,8 +17,7 @@ I'm Jade Japhet R. Rugas, a fourth-year BSIT (Bachelor of Science in Information
 - **Currently Learning**: Next.js 14, PostgreSQL, Tailwind CSS
 
 ### Connect with Me
-
-- 📧 Email: [your@email.com](mailto:your@email.com)
+ 
 - 💼 LinkedIn: [Jade Japhet Rugas](https://linkedin.com/in/jade-japhet-rugas-459938288)
 - 🐦 Twitter: [@japhet_rugas](https://twitter.com/japhet_rugas)
 - 👤 Facebook: [Japhet Rugas](https://www.facebook.com/japhetrugas/)
