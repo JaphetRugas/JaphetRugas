@@ -8,7 +8,7 @@ I'm Jade Japhet R. Rugas, an IT professional based in the Philippines. My focus 
 ![Profile Views](https://komarev.com/ghpvc/?username=jaderugas&label=Profile%20views&color=0e75b6&style=flat)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/JaphetRugas)
-- 🌐 Check out my [portfolio](https://yourportfolio.com](https://rugas-portfolio.vercel.app/)) for some of my work.
+- 🌐 Check out my [portfolio](https://rugas-portfolio.vercel.app/) for some of my work.
 - 💬 Ask me about anything related to IT, technology, or programming!
 - ⚡ Fun fact: I enjoy exploring new technologies, learning different programming languages, playing RPG games, mobile competitive games, and going for walks.
 
