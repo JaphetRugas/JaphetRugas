@@ -2,7 +2,6 @@
 <h3 align="center">A passionate IT student from the Philippines</h3>
 <p align="center">Welcome to my GitHub profile!</p>
 
-About Me
 I'm Jade Japhet R. Rugas, a fourth-year BSIT (Bachelor of Science in Information Technology) student based in the Philippines. My journey in IT has been driven by a deep passion for technology and a curiosity to explore its vast possibilities. As I continue my studies, I actively engage in hands-on projects and self-learning endeavors to broaden my skill set and deepen my understanding of the field.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaderugas&label=Profile%20views&color=0e75b6&style=flat" alt="jaderugas" /> </p>
