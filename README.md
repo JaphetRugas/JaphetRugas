@@ -2,7 +2,7 @@
 
 ## Backend Web Developer | IT Professional
 
-Welcome to my GitHub profile. I am Jade Japhet R. Rugas, an IT professional based in the Philippines, specializing in backend web development. My expertise lies in creating robust and scalable solutions, driven by a passion for technology and a commitment to continuous learning.
+Welcome to my GitHub profile! I'm Jade Japhet R. Rugas from the Philippines, and I focus on backend web development. I enjoy creating robust and scalable solutions, fueled by a deep passion for technology and a curiosity to explore its vast possibilities. I engage in hands-on projects and self-learning endeavors to broaden my skill set and deepen my understanding of the field.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jaderugas&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -21,11 +21,13 @@ Welcome to my GitHub profile. I am Jade Japhet R. Rugas, an IT professional base
 ![Drizzle](https://img.shields.io/badge/Drizzle-0091EA?style=for-the-badge&logo=drizzle&logoColor=white)
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Professional Portfolio
 
